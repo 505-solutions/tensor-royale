@@ -1,0 +1,9 @@
+[submodule "tensor-royale-api"]
+	path = tensor-royale-api
+	url = https://github.com/505-solutions/tensor-royale-api.git
+[submodule "tensor-royale-prover"]
+	path = tensor-royale-prover
+	url = https://github.com/505-solutions/tensor-royale-prover.git
+[submodule "tensor-royale-frontend"]
+	path = tensor-royale-frontend
+	url = https://github.com/505-solutions/tensor-royale-frontend.git
