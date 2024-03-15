@@ -1,3 +1,3 @@
 # Tensor Royale 
 ## An ETHLondon 2024 project
-![alt text](https://raw.githubusercontent.com/505-solutions/tensor-royale/main/assets/logo-small.png)
+![alt text](https://github.com/505-solutions/tensor-royale/blob/main/assets/logo.png?raw=true)
