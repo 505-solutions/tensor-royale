@@ -10,5 +10,5 @@ Our technology stack includes partner technologies from Filecoin, Avail, Netherm
 Video uploaded here: https://k00.fr/8lh1f33r | password: 901376
 
 ---
-</> with ❤︎ at ETHLondon 2024
+<sub><sup> </> with ❤︎ at ETHLondon 2024 </sup></sub>
 
