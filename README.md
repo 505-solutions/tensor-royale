@@ -2,7 +2,7 @@
 ## Project Description
 Tensor Royale is an incentivised AI collaboration platform. It allows for a permissionless upload of training data and computational models. It incentivises creation and sharing of open source models and data, by providing user-submitted challenges & incentives. It allows for independent model evaluation while taking care of data consistency. We also provide the ability to deploy these models on-chain using STARKWARE to prove the validity of execution.
 
-Winner of:
+**Winner of**:
 - 🏆 Avail - Best Project built with Avail
 - 🏆 Nethermind - Best projects building on Starknet
 - 🏆 Nethermind - AI integration in blockchain 2nd place
