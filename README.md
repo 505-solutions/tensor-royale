@@ -1,4 +1,4 @@
-# Tensor Royale - ETHLondon 2024 🏆x4
+# Tensor Royale - ETHLondon 2024
 ## Project Description
 Tensor Royale is an incentivised AI collaboration platform. It allows for a permissionless upload of training data and computational models. It incentivises creation and sharing of open source models and data, by providing user-submitted challenges & incentives. It allows for independent model evaluation while taking care of data consistency. We also provide the ability to deploy these models on-chain using STARKWARE to prove the validity of execution.
 
